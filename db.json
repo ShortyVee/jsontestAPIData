@@ -3,19 +3,19 @@
         {
             "name": "Ghibli pop",
             "tracks": 20
-        }
+        },
         {
             "name": "Modern pop",
             "tracks": 5
-        }
+        },
         {
             "name": "Classic",
             "tracks": 7
-        }
+        },
         {
             "name": "Cafe",
             "tracks": 40
-        }
+        },
         {
             "name": "Jazz",
             "tracks": 1
